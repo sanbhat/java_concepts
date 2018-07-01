@@ -61,6 +61,8 @@ In **non-compating** methodology, the memories are reclaimed in-place, causing l
 
 ## S.O.L.I.D Principles
 
+Reference - [Solid principles made easy - by Dhurim Kelmendi @ Hackernoon](https://hackernoon.com/solid-principles-made-easy-67b1246bcdf)
+
 ### S - Single Responsibility Principle (S.R.P)
 
 * A class should have one, and only one, reason to change.
